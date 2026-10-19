@@ -64,5 +64,3 @@ also references these exact names.
 
 Good luck — and remember to commit your progress to GitHub regularly
 as you complete each task, not just once at the end!
-
-##a
